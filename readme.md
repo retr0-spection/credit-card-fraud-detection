@@ -70,7 +70,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn imbalanced-learn xgboos
 2. Open and run the Jupyter notebook:  
 
    ```bash  
-   jupyter notebook Credit_Fraud_Detection.ipynb  
+   jupyter notebook main.ipynb  
    ```
 
 ## 📚 References  
